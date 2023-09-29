@@ -1,0 +1,31 @@
+h1 {
+	color: #9900FF;
+}
+
+.custom-width {
+	max-width: 1000px; /* Adjust this value as needed */
+}
+
+.italic-text {
+	font-style: italic;
+}
+
+.show-width {
+	max-width: 380px;
+}
+
+.show-bg-color {
+	background-color: #9FC5F8;
+}
+
+.footer {
+	position: absolute;
+	/* Position the bottom div absolutely within the container */
+	bottom: 0; /* Position it at the bottom of the container */
+	width: 100%; /* Make it span the full width of the container */
+	padding: 10px; /* Adjust padding as needed */
+}
+
+.larger-text {
+	font-size: 20px; /* Set your desired font size */
+}
